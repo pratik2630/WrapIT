@@ -1,4 +1,4 @@
-# Speak2Brief
+# WrapIT
 This project allows you to convert audio files to text using AWS Transcribe and then summarizes the text using the ChatGPT API. It provides an easy way to extract key information from audio recordings and generate concise summaries.
 
 
